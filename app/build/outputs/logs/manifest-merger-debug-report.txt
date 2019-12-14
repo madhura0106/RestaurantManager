@@ -1,0 +1,302 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:6:5-69
+	android:name
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:6:22-66
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:9:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Pranav\.android\build-cache\6d6da8ea8eb21a0ee81ba49013ee49d61cf49033\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:10:22-64
+application
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:13:5-49:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Pranav\.android\build-cache\0b4dc9511f30b84af7f9b23281169d11280d7e5d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Pranav\.android\build-cache\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Pranav\.android\build-cache\8cc5bc9214b6b658727f2da254c4de206f4c2287\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Pranav\.android\build-cache\87fe7f0ffad97a781fcc55e176547f71f66dc304\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Pranav\.android\build-cache\ad77a220dd74a6786114acbb9e9878d0479b27a7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pranav\.android\build-cache\7deb123f363fafc37dccdf4b0600643f14080693\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\Pranav\.android\build-cache\53a4b85c784a10fa768fab9824e607b06c71931e\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Pranav\.android\build-cache\6d6da8ea8eb21a0ee81ba49013ee49d61cf49033\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Pranav\.android\build-cache\4031ab858c7fcc06b7c3474c976183b23184f839\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Pranav\.android\build-cache\05d7bdad15f0b64b4b1ad58963e0f08aaca759a2\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Pranav\.android\build-cache\4a696bcbfcc30b14f33a8edd65e56d13a57c069f\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pranav\.android\build-cache\705dce186c7cf5304dfb1858111efbf327d74a04\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Pranav\.android\build-cache\ae92d95e56ba18de7be040d436454a801152b041\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pranav\.android\build-cache\09b5f8d0a09e8c215ba645dc0fb1fecbc294fb3a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Pranav\.android\build-cache\1b34881c7c1d813192ed4ed34ef5d9fa5d8cd171\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Pranav\.android\build-cache\61caee211519b29cacb884778ceacd5bd6b07700\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Pranav\.android\build-cache\64560266fe744ea9edf760cbe5c7bd8dada9da5b\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:19:9-35
+	android:roundIcon
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:18:9-56
+	android:allowBackup
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:15:9-51
+	android:largeHeap
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:17:9-33
+	android:theme
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.example.jarvis.pro10.MainActivity
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:label
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:23:13-45
+	android:theme
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:22:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.example.jarvis.pro10.bday
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:31:9-42
+	android:name
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:31:19-39
+activity#com.example.jarvis.pro10.catering
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:32:9-46
+	android:name
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:32:19-43
+activity#com.example.jarvis.pro10.AboutUs
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:33:9-45
+	android:name
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:33:19-42
+activity#com.example.jarvis.pro10.Feedback
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:34:9-46
+	android:name
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:34:19-43
+activity#com.example.jarvis.pro10.ContactUs
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:35:9-47
+	android:name
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:35:19-44
+activity#com.example.jarvis.pro10.LoginActivity
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:36:9-38:60
+	android:label
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:38:13-57
+	android:name
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:37:13-42
+activity#com.example.jarvis.pro10.BookTable
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:39:9-47
+	android:name
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:39:19-44
+activity#com.example.jarvis.pro10.Home
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:40:9-43:59
+	android:label
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:42:13-56
+	android:theme
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:41:13-33
+activity#com.example.jarvis.pro10.Manager
+ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:44:9-47:68
+	android:label
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:46:13-59
+	android:theme
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml:45:13-36
+uses-sdk
+INJECTED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\Pranav\.android\build-cache\0b4dc9511f30b84af7f9b23281169d11280d7e5d\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Pranav\.android\build-cache\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Pranav\.android\build-cache\8cc5bc9214b6b658727f2da254c4de206f4c2287\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Pranav\.android\build-cache\87fe7f0ffad97a781fcc55e176547f71f66dc304\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Pranav\.android\build-cache\6adbd693cc3bcb5371627eef6410508106ecca64\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Pranav\.android\build-cache\ad77a220dd74a6786114acbb9e9878d0479b27a7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pranav\.android\build-cache\7deb123f363fafc37dccdf4b0600643f14080693\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\Pranav\.android\build-cache\d293058958987c11c3214ad4826aabad2fe6ee53\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\Pranav\.android\build-cache\141afe5acd0c29a648128aed93e7ae713192df21\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\Pranav\.android\build-cache\53a4b85c784a10fa768fab9824e607b06c71931e\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Pranav\.android\build-cache\6d6da8ea8eb21a0ee81ba49013ee49d61cf49033\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Pranav\.android\build-cache\4031ab858c7fcc06b7c3474c976183b23184f839\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Pranav\.android\build-cache\05d7bdad15f0b64b4b1ad58963e0f08aaca759a2\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Pranav\.android\build-cache\4a696bcbfcc30b14f33a8edd65e56d13a57c069f\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pranav\.android\build-cache\705dce186c7cf5304dfb1858111efbf327d74a04\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Pranav\.android\build-cache\ae92d95e56ba18de7be040d436454a801152b041\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pranav\.android\build-cache\09b5f8d0a09e8c215ba645dc0fb1fecbc294fb3a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Pranav\.android\build-cache\1b34881c7c1d813192ed4ed34ef5d9fa5d8cd171\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Pranav\.android\build-cache\61caee211519b29cacb884778ceacd5bd6b07700\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Pranav\.android\build-cache\64560266fe744ea9edf760cbe5c7bd8dada9da5b\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Pranav\.android\build-cache\0b4dc9511f30b84af7f9b23281169d11280d7e5d\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pranav\Documents\madhura\prochn2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Pranav\.android\build-cache\0b4dc9511f30b84af7f9b23281169d11280d7e5d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Pranav\.android\build-cache\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Pranav\.android\build-cache\8cc5bc9214b6b658727f2da254c4de206f4c2287\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Pranav\.android\build-cache\87fe7f0ffad97a781fcc55e176547f71f66dc304\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Pranav\.android\build-cache\6adbd693cc3bcb5371627eef6410508106ecca64\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Pranav\.android\build-cache\ad77a220dd74a6786114acbb9e9878d0479b27a7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pranav\.android\build-cache\705dce186c7cf5304dfb1858111efbf327d74a04\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Pranav\.android\build-cache\ae92d95e56ba18de7be040d436454a801152b041\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pranav\.android\build-cache\09b5f8d0a09e8c215ba645dc0fb1fecbc294fb3a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Pranav\.android\build-cache\1b34881c7c1d813192ed4ed34ef5d9fa5d8cd171\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Pranav\.android\build-cache\61caee211519b29cacb884778ceacd5bd6b07700\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Pranav\.android\build-cache\64560266fe744ea9edf760cbe5c7bd8dada9da5b\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Pranav\.android\build-cache\0b4dc9511f30b84af7f9b23281169d11280d7e5d\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Pranav\.android\build-cache\0b4dc9511f30b84af7f9b23281169d11280d7e5d\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Pranav\.android\build-cache\6d6da8ea8eb21a0ee81ba49013ee49d61cf49033\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Pranav\.android\build-cache\6d6da8ea8eb21a0ee81ba49013ee49d61cf49033\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Pranav\.android\build-cache\6d6da8ea8eb21a0ee81ba49013ee49d61cf49033\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Pranav\.android\build-cache\6d6da8ea8eb21a0ee81ba49013ee49d61cf49033\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Pranav\.android\build-cache\4031ab858c7fcc06b7c3474c976183b23184f839\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Pranav\.android\build-cache\4031ab858c7fcc06b7c3474c976183b23184f839\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Pranav\.android\build-cache\4031ab858c7fcc06b7c3474c976183b23184f839\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Pranav\.android\build-cache\4031ab858c7fcc06b7c3474c976183b23184f839\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Pranav\.android\build-cache\4031ab858c7fcc06b7c3474c976183b23184f839\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Pranav\.android\build-cache\4a696bcbfcc30b14f33a8edd65e56d13a57c069f\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Pranav\.android\build-cache\4a696bcbfcc30b14f33a8edd65e56d13a57c069f\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Pranav\.android\build-cache\4a696bcbfcc30b14f33a8edd65e56d13a57c069f\output\AndroidManifest.xml:20:20-65

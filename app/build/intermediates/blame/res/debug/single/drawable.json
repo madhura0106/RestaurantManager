@@ -1,0 +1,986 @@
+[
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\greenchilliraita.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\greenchilliraita.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\restaurantaboutus.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\restaurantaboutus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tuttifruityicecream.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\tuttifruityicecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pyaazkaraita.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\pyaazkaraita.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apricoticecream.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\apricoticecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\masalachaiicecream.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\masalachaiicecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\restaurantaboutus.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\restaurantaboutus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mysoremasaladosa.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\mysoremasaladosa.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab2.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\tab2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cucumbersalad.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\cucumbersalad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginpng.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\loginpng.png"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\masalachana.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\masalachana.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deserts.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\deserts.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakrikebabs.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\kakrikebabs.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vanillaicecream.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\vanillaicecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\neerdosa.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\neerdosa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\but.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\but.png"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\caesarsalad.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\caesarsalad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\naan.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\naan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakrikebabs.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\kakrikebabs.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backbutt.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\backbutt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ordernow.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\ordernow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chillimushrum.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\chillimushrum.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jeerarice.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\jeerarice.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginpng.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\loginpng.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\punjabifood.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\punjabifood.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdayp.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\bdayp.png"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\greengramdosa.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\greengramdosa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mains.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\mains.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\greengramdosa.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\greengramdosa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cornpakoda.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\cornpakoda.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paneertikka.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\paneertikka.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jeerarice.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\jeerarice.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\punjabifood.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\punjabifood.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\potatosalad.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\potatosalad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\southfood.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\southfood.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\masalachana.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\masalachana.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\greenchilliraita.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\greenchilliraita.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thandaiicecream.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\thandaiicecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dalmakhani.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\dalmakhani.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\but.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\but.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chillimushrum.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\chillimushrum.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\watermelonsaladarticle.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\watermelonsaladarticle.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pyaazkaraita.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\pyaazkaraita.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apricoticecream.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\apricoticecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icecream.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\icecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\neerdosa.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\neerdosa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\specials.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\specials.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avadosa.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\avadosa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paalpayasam.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\paalpayasam.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uselog.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\uselog.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mooliparatha.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\mooliparatha.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beetrootraita.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\beetrootraita.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backj.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\backj.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cucumbersalad.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\cucumbersalad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paneertikka.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\paneertikka.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anardanaraita.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\anardanaraita.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\masalachaiicecream.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\masalachaiicecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cornpakoda.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\cornpakoda.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kheerekaraita.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\kheerekaraita.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avadosa.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\avadosa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tnwfaraaliidlisambhar.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\tnwfaraaliidlisambhar.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\i.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\i.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mains.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\mains.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\caesarsalad.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\caesarsalad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\managarslogin.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\managarslogin.png"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tuttifruityicecream.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\tuttifruityicecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\catering.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\catering.png"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\i.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\i.png"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mangolassiicecream.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\mangolassiicecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tnwfaraaliidlisambhar.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\tnwfaraaliidlisambhar.png"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alookaraita.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\alookaraita.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cornvada.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\cornvada.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\murghmalaiwala.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\murghmalaiwala.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\veganchocolateicecream.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\veganchocolateicecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pakodakadhi.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\pakodakadhi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cheeseballs.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\cheeseballs.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\southfood.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\southfood.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chickenbutter.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\chickenbutter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mooliparatha.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\mooliparatha.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mangoicecream.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\mangoicecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\specials.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\specials.png"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alookaraita.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\alookaraita.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\strawberrymeringueicecream.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\strawberrymeringueicecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paalpayasam.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\paalpayasam.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sabudanavada.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\sabudanavada.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dhabadal.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\dhabadal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thandaiicecream.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\thandaiicecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab2.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\tab2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\idlisambhar.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\idlisambhar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\murghmalaiwala.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\murghmalaiwala.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\veganchocolateicecream.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\veganchocolateicecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appams.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\appams.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mangolassiicecream.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\mangolassiicecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\idlisambhar.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\idlisambhar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cholebhature.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\cholebhature.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\starters.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\starters.png"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\potatosalad.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\potatosalad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appams.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\appams.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cheeseballs.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\cheeseballs.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chilliparotta.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\chilliparotta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\starters.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\starters.png"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dhabadal.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\dhabadal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alookitikki.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\alookitikki.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\log.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\log.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\cart.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backbutt.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\backbutt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uselog.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\uselog.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\catering.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\catering.png"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_round.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tables.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\tables.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backj.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\backj.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chickenbutter.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\chickenbutter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tables.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\tables.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mangoicecream.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\mangoicecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\watermelonsaladarticle.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\watermelonsaladarticle.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chilliparotta.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\chilliparotta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\salad.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\salad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ordernow.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\ordernow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_round.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cholebhature.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\cholebhature.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sabudanavada.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\sabudanavada.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vanillaicecream.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\vanillaicecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mysoremasaladosa.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\mysoremasaladosa.png"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pakodakadhi.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\pakodakadhi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menue.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\menue.png"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\strawberrymeringueicecream.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\strawberrymeringueicecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chocolateicecream.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\chocolateicecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dalmakhani.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\dalmakhani.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beetrootraita.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\beetrootraita.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icecream.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\icecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deserts.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\deserts.png"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hyderabadibiryani.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\hyderabadibiryani.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\crumbfriedchicken.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\crumbfriedchicken.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anardanaraita.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\anardanaraita.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\crumbfriedchicken.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\crumbfriedchicken.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\naan.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\naan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cornvada.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\cornvada.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menue.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\menue.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cheesechillidosa.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\cheesechillidosa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\managarslogin.png",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\managarslogin.png"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alookitikki.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\alookitikki.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\log.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\log.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kheerekaraita.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\kheerekaraita.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chocolateicecream.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\chocolateicecream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\salad.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\salad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cheesechillidosa.jpg",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\cheesechillidosa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hyderabadibiryani.jpg",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\drawable\\hyderabadibiryani.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdayp.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\bdayp.png"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart.png",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\drawable\\cart.png"
+    }
+]

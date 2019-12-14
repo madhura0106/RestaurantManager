@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">916355480758-bn2earkqkr2i71csuuf9h5sm5u5gc5h4.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://zaika-bf32c.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">916355480758</string>
+    <string name="google_api_key" translatable="false">AIzaSyBtbaalyp-Jey5JhFdHVBTQ3eb3sgBWSsA</string>
+    <string name="google_app_id" translatable="false">1:916355480758:android:4f13042566d28642</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBtbaalyp-Jey5JhFdHVBTQ3eb3sgBWSsA</string>
+    <string name="google_storage_bucket" translatable="false">zaika-bf32c.appspot.com</string>
+</resources>

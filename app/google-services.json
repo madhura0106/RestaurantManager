@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "916355480758",
+    "firebase_url": "https://zaika-bf32c.firebaseio.com",
+    "project_id": "zaika-bf32c",
+    "storage_bucket": "zaika-bf32c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916355480758:android:4f13042566d28642",
+        "android_client_info": {
+          "package_name": "com.example.jarvis.pro10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916355480758-mb40c3bis26cboek7usv157fq6vlfn3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jarvis.pro10",
+            "certificate_hash": "cc5c9b2268e156c6dfbb45513d49e7f79260bf5f"
+          }
+        },
+        {
+          "client_id": "916355480758-bn2earkqkr2i71csuuf9h5sm5u5gc5h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtbaalyp-Jey5JhFdHVBTQ3eb3sgBWSsA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916355480758-bn2earkqkr2i71csuuf9h5sm5u5gc5h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

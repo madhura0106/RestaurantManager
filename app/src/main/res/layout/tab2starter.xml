@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:paddingBottom="9dp"
+    android:paddingLeft="9dp"
+    android:paddingRight="9dp"
+    android:paddingTop="9dp"
+    tools:context="com.example.jarvis.pro10.MyTab$PlaceholderFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/tab2"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+
+                android:weightSum="5">
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/alookitikki" />
+
+                <LinearLayout
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.96"
+                    android:orientation="vertical"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp"
+                        android:text="Aloo Ki Tikki" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp"
+                        android:text="Rs. 80" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="33dp"
+                    android:layout_height="70dp"
+                    android:orientation="horizontal"
+                    android:layout_weight="1.89">
+
+                    <Button
+                        android:id="@+id/binc21"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:layout_weight="0.02"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="2dp"
+                        android:text="+"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="10dp"
+                        android:layout_height="70dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_weight="0.43"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/s1"
+                            android:layout_width="40dp"
+                            android:layout_height="70dp"
+                            android:layout_gravity="center_horizontal"
+
+                            android:paddingLeft="15dp"
+                            android:paddingTop="35dp"
+                            android:text="0"
+
+                            />
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/bdec21"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="2dp"
+                        android:text="-"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+
+                android:weightSum="5">
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/cheeseballs" />
+
+                <LinearLayout
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.90"
+                    android:orientation="vertical"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp"
+                        android:text="Cheese Balls" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp"
+                        android:text="Rs. 90" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="33dp"
+                    android:layout_height="70dp"
+                    android:orientation="horizontal"
+                    android:layout_weight="1.89">
+
+                    <Button
+                        android:id="@+id/binc22"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:layout_weight="0.02"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="2dp"
+                        android:text="+"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="10dp"
+                        android:layout_height="70dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_weight="0.43"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/s2"
+                            android:layout_width="40dp"
+                            android:layout_height="70dp"
+                            android:layout_gravity="center_horizontal"
+
+                            android:paddingLeft="15dp"
+                            android:paddingTop="35dp"
+                            android:text="0"
+
+                            />
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/bdec22"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="2dp"
+                        android:text="-"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+
+                android:weightSum="5">
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/chillimushrum" />
+
+                <LinearLayout
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:weightSum="2"
+                    android:layout_weight="1.88">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp"
+                        android:text="Chilli Mushrum" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp"
+                        android:text="Rs. 100" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="33dp"
+                    android:layout_height="70dp"
+                    android:orientation="horizontal"
+                    android:layout_weight="1.89">
+
+                    <Button
+                        android:id="@+id/binc23"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:layout_weight="0.02"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="2dp"
+                        android:text="+"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="10dp"
+                        android:layout_height="70dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_weight="0.43"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/s3"
+                            android:layout_width="40dp"
+                            android:layout_height="70dp"
+                            android:layout_gravity="center_horizontal"
+
+                            android:paddingLeft="15dp"
+                            android:paddingTop="35dp"
+                            android:text="0"
+
+                            />
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/bdec23"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="2dp"
+                        android:text="-"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+
+                android:weightSum="5">
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/chilliparotta" />
+
+                <LinearLayout
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.96"
+                    android:orientation="vertical"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp"
+                        android:text="Chilli Parotta" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp"
+                        android:text="Rs. 50" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="33dp"
+                    android:layout_height="70dp"
+                    android:orientation="horizontal"
+                    android:layout_weight="1.89">
+
+                    <Button
+                        android:id="@+id/binc24"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:layout_weight="0.02"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="2dp"
+                        android:text="+"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="10dp"
+                        android:layout_height="70dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_weight="0.43"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/s4"
+                            android:layout_width="40dp"
+                            android:layout_height="70dp"
+                            android:layout_gravity="center_horizontal"
+
+                            android:paddingLeft="15dp"
+                            android:paddingTop="35dp"
+                            android:text="0"
+
+                            />
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/bdec24"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="2dp"
+                        android:text="-"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+
+                android:weightSum="5">
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/cornpakoda" />
+
+                <LinearLayout
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.96"
+                    android:orientation="vertical"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp"
+                        android:text="Corn Pakoda" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp"
+                        android:text="Rs. 60" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="33dp"
+                    android:layout_height="70dp"
+                    android:orientation="horizontal"
+                    android:layout_weight="1.89">
+
+                    <Button
+                        android:id="@+id/binc25"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:layout_weight="0.02"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="2dp"
+                        android:text="+"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="10dp"
+                        android:layout_height="70dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_weight="0.43"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/s5"
+                            android:layout_width="40dp"
+                            android:layout_height="70dp"
+                            android:layout_gravity="center_horizontal"
+
+                            android:paddingLeft="15dp"
+                            android:paddingTop="35dp"
+                            android:text="0"
+
+                            />
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/bdec25"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="2dp"
+                        android:text="-"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+
+                android:weightSum="5">
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/cornvada" />
+
+                <LinearLayout
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.96"
+                    android:orientation="vertical"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp"
+                        android:text="Corn Vada" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp"
+                        android:text="Rs. 75" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="33dp"
+                    android:layout_height="70dp"
+                    android:orientation="horizontal"
+                    android:layout_weight="1.89">
+
+                    <Button
+                        android:id="@+id/binc26"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:layout_weight="0.02"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="2dp"
+                        android:text="+"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="10dp"
+                        android:layout_height="70dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_weight="0.43"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/s6"
+                            android:layout_width="40dp"
+                            android:layout_height="70dp"
+                            android:layout_gravity="center_horizontal"
+
+                            android:paddingLeft="15dp"
+                            android:paddingTop="35dp"
+                            android:text="0"
+
+                            />
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/bdec26"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="2dp"
+                        android:text="-"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+
+                android:weightSum="5">
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/crumbfriedchicken" />
+
+                <LinearLayout
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.92"
+                    android:orientation="vertical"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp"
+                        android:text="Crumb Fried Chicken" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp"
+                        android:text="Rs. 115" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="33dp"
+                    android:layout_height="70dp"
+                    android:orientation="horizontal"
+                    android:layout_weight="1.89">
+
+                    <Button
+                        android:id="@+id/binc27"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:layout_weight="0.02"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="2dp"
+                        android:text="+"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="10dp"
+                        android:layout_height="70dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_weight="0.43"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/s7"
+                            android:layout_width="40dp"
+                            android:layout_height="70dp"
+                            android:layout_gravity="center_horizontal"
+
+                            android:paddingLeft="15dp"
+                            android:paddingTop="35dp"
+                            android:text="0"
+
+                            />
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/bdec27"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="2dp"
+                        android:text="-"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+
+                android:weightSum="5">
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/kakrikebabs" />
+
+                <LinearLayout
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.92"
+                    android:orientation="vertical"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp"
+                        android:text="Kakri Kebabs" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp"
+                        android:text="Rs. 110" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="33dp"
+                    android:layout_height="70dp"
+                    android:orientation="horizontal"
+                    android:layout_weight="1.89">
+
+                    <Button
+                        android:id="@+id/binc28"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:layout_weight="0.02"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="2dp"
+                        android:text="+"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="10dp"
+                        android:layout_height="70dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_weight="0.43"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/s8"
+                            android:layout_width="40dp"
+                            android:layout_height="70dp"
+                            android:layout_gravity="center_horizontal"
+
+                            android:paddingLeft="15dp"
+                            android:paddingTop="35dp"
+                            android:text="0"
+
+                            />
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/bdec28"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="2dp"
+                        android:text="-"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+
+                android:weightSum="5">
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/sabudanavada" />
+
+                <LinearLayout
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.92"
+                    android:orientation="vertical"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp"
+                        android:text="Sabudana Vada" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp"
+                        android:text="Rs. 100" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="33dp"
+                    android:layout_height="70dp"
+                    android:orientation="horizontal"
+                    android:layout_weight="1.89">
+
+                    <Button
+                        android:id="@+id/binc29"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:layout_weight="0.02"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="2dp"
+                        android:text="+"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="10dp"
+                        android:layout_height="70dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_weight="0.43"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/s9"
+                            android:layout_width="40dp"
+                            android:layout_height="70dp"
+                            android:layout_gravity="center_horizontal"
+
+                            android:paddingLeft="15dp"
+                            android:paddingTop="35dp"
+                            android:text="0"
+
+                            />
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/bdec29"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="2dp"
+                        android:text="-"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

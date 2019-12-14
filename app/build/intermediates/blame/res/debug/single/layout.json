@@ -1,0 +1,642 @@
+[
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab1panjabifood.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\tab1panjabifood.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_catering.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\activity_catering.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_customer__menu.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\fragment_customer__menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feedback.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_book_table.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\activity_book_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_table_login.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\fragment_table_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab3icecream.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\tab3icecream.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_book_catering.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\fragment_book_catering.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bday.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\activity_bday.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_book_bday.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\fragment_book_bday.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_feedback.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\fragment_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_book_table.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\activity_book_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab3icecream.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\tab3icecream.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab5saladandraita.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\tab5saladandraita.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_login.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\dialog_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feedback.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_customer__menu.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\fragment_customer__menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab2starter.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\tab2starter.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab1panjabifood.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\tab1panjabifood.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_catering.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\activity_catering.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_book_book_table.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\fragment_book_book_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_book_bday.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\fragment_book_bday.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_book_book_table.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\fragment_book_book_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab4southindianfoods.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\tab4southindianfoods.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manager.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\activity_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_book_catering.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\fragment_book_catering.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_table_login.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\fragment_table_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_login.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\dialog_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bday.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\activity_bday.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_us.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab2starter.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\tab2starter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\fragment_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_us.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\fragment_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab4southindianfoods.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\tab4southindianfoods.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab5saladandraita.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\tab5saladandraita.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_feedback.xml",
+        "source": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\src\\main\\res\\layout\\fragment_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manager.xml",
+        "source": "C:\\Users\\mane\\Downloads\\prochn1\\app\\src\\main\\res\\layout\\activity_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\2f85ce0a3e63115afc691d219fc207af7770a7be\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mane\\Downloads\\prochn1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\mane\\.android\\build-cache\\e9d772248bdfa01fd497ac83860ca5279fe285b7\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranav\\Documents\\madhura\\prochn2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Pranav\\.android\\build-cache\\0b4dc9511f30b84af7f9b23281169d11280d7e5d\\output\\res\\layout\\design_navigation_item_separator.xml"
+    }
+]

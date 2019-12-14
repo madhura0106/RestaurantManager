@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\61caee211519b29cacb884778ceacd5bd6b07700\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_3b2497c8274c200fb311ffaebed35286d8a48960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_9b028b82edd892fecd81ca00865afe5dc93355ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\7deb123f363fafc37dccdf4b0600643f14080693\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_9edb3a18703695322fa8b31a348c45a3bd463d1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\05d7bdad15f0b64b4b1ad58963e0f08aaca759a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_725c44194abb8fa7e7ef3c0b7c6b302f8e5621e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\4a696bcbfcc30b14f33a8edd65e56d13a57c069f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_fe89089e850d769129998e917af1da7d212dcbde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\8cc5bc9214b6b658727f2da254c4de206f4c2287\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_ec9c76f867b0defcd9219da10f8637ac1b95e4b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\4031ab858c7fcc06b7c3474c976183b23184f839\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_f30b99638489e39573e9453027a92aea144af342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\6adbd693cc3bcb5371627eef6410508106ecca64\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_020d8e02b67a2658c1292c6ca459762a947367f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\87fe7f0ffad97a781fcc55e176547f71f66dc304\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_e558e8c9f51bd5ed84bf73dcd4673ee342ed3e8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\705dce186c7cf5304dfb1858111efbf327d74a04\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_9401e6ef225ccd53afb6c860359eb69704c76fd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\64560266fe744ea9edf760cbe5c7bd8dada9da5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_e46ee4c66fe8764de2c3fe1bf65eb219603b8172.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\5109b53cd794e88563295ed2c80f0207c588a382\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_6ebf5eef71930c5dded2c148479207d4a2e619f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\ad77a220dd74a6786114acbb9e9878d0479b27a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_51309374a2972eb3b6e8db5be03d006b7f3b0414.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\09b5f8d0a09e8c215ba645dc0fb1fecbc294fb3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_b9aac5748a2967daa42d5aabbab6dcb51489b6de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\6d6da8ea8eb21a0ee81ba49013ee49d61cf49033\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_535ab66499dc191524250926b9c9fc6f9c440c48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\141afe5acd0c29a648128aed93e7ae713192df21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_d799bba998b0daa7b41c4fae843ddbd11c9e49f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\1b34881c7c1d813192ed4ed34ef5d9fa5d8cd171\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_ea7d5d7a2fedd4caeb903c2e7c7a75497ab36553.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_d1fe46e20ef27577174c9ca966f72b111e0f3ee1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\d293058958987c11c3214ad4826aabad2fe6ee53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_b6f6d98552434e15889d3d6e618e5f8658562213.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\ec1d772e7c6d26e54978d99c72a4895d2c4c68b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_bb865806a65411903e5aa815196a9c626d4e9300.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\0b4dc9511f30b84af7f9b23281169d11280d7e5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_5509446e180b645a2dd5ef485482556d2db618d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\ae92d95e56ba18de7be040d436454a801152b041\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_81d93e07ed180c840fde115090b58bd3a85ed8f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranav\.android\build-cache\b96478a3f22d8b3ac00866dccbbb1a76ba6bbcbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Pranav\Documents\madhura\prochn2\app\build\intermediates\pre-dexed\debug\classes_a8d7e2a0809a890fa68c1d29b7fdbef764778810.jar" />
+    </item>
+
+</items>

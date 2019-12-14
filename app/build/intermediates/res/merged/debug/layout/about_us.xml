@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backj"
+    tools:context="com.example.jarvis.pro10.bday">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="207dp"
+        app:srcCompat="@drawable/restaurantaboutus" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:paddingTop="5dp"
+        android:paddingLeft="10dp"
+        android:text="About Us :"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="900dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="548dp"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="About Restaurant Zaika Situated in the heart of Sangli, Restaurant Zaika immerses guests in the distinctive lure of an Indian culture and the subtleties of contemporary charm. An active industrial and a vibrant cultural hub of India, Sangli hosts a wide array of artistic events throughout the year, including the Sangeet Kala  Mahostav Music Festival, Kalapushp Utsav and the ten-day, mythical Ganesha Festival. Sangli has a rich produce of raisens, juicy sugarcane and golden  mustard which also gives Sangli its agricultural industry.  Apart from this Sangli has many small scale as well as large scale industries which dab in foundries, capacitors, industrial starch and power tools. Due to this steady rise in agricultural as well as industrial development, Sangli today witnesses a large flow of guests across the country and from foreign  lands. Our commitment to the traveling guest is to satisfy their two essential yet simple expectations i.e. to provide a friendly and courteous staff and most  essentially provide them with a clean spacious room where everything is in a working order. We’re a perfect gateway to the contemporary marvels and historic charm  of the destination. Ideally situated along the city’s most beautiful tree-lined avenue, Vishram Baug with direct connectivity to several major commercial offices  and centers. The Sangli Railway Station is approximately 5 – 10 minutes away. "
+
+                android:textColor="@android:color/black" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
